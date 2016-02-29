@@ -1,0 +1,8 @@
+[历史]
+1=#P0#=mb	#P1#=WindowProc	#P2#=gitub代码/dropfile/WindowProc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160224112152	#P7#=0	#P8#=12	.
+2=#P0#=mb	#P1#=MyMkDir	#P2#=gitub代码/Mainform/MyMkDir	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160224111313	#P7#=0	#P8#=10	.
+3=#P0#=mb	#P1#=Form_Load	#P2#=gitub代码/Mainform/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160224111249	#P7#=0	#P8#=22	.
+4=#P0#=mb	#P1#=Command1_Click	#P2#=gitub代码/Mainform/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160224112620	#P7#=0	#P8#=28	.
+5=#P0#=mb	#P1#=SetIcon	#P2#=gitub代码/modIcon/SetIcon	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160224110700	#P7#=0	#P8#=54	.
+6=#P0#=mb	#P1#=MyCopy	#P2#=gitub代码/Mainform/MyCopy	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160224104600	#P7#=0	#P8#=12	.
+7=#P0#=mb	#P1#=DropFiles	#P2#=gitub代码/Mainform/DropFiles	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160224102039	#P7#=0	#P8#=21	.
